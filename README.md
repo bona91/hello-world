@@ -1,3 +1,2 @@
 # Hola mundo
-Mi nombre es lucas
-Estoy aprendiendo a programar!
+Mi nombre es lucas y estoy aprendiendo a programar!
